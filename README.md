@@ -41,3 +41,13 @@ Mechatronics Engineering Student
 
 ## Implementation
 Basic demonstration available in zkp_demo.py
+
+## Certifications and Achievements
+
+- Professional Certificate in Blockchain – IIT Kanpur (2024)  
+  Gained knowledge in blockchain architecture, cryptographic principles, and decentralized applications through an IIT-certified program.
+
+- Research Publication – IOSR Journal (2025)  
+
+
+
